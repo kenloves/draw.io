@@ -298,7 +298,7 @@
           <mxGeometry x="180" y="480" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wdq1fw2TYDgfDm0N4Vt8-140" value="(c) 中期融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;fontSize=14;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="929.5" y="480" width="95" height="30" as="geometry" />
+          <mxGeometry x="950" y="480" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wdq1fw2TYDgfDm0N4Vt8-142" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;flipH=1;labelBackgroundColor=none;fillColor=#C0D1BF;strokeColor=#70a451;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="130" y="196" width="40" height="120" as="geometry" />
